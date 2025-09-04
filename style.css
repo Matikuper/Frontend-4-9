@@ -67,3 +67,25 @@ main {
     border-width: 2px;
     font-size: 15px;
 }
+
+.lista {
+    background-color: #1f2141;
+    width: 300px;
+    color: white;
+    position: relative;
+    justify-content: flex-start;
+    padding-left: 50px;
+}
+
+.lista button {
+    background-color: #414688;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    border-width: 2px;
+}
+
+.btnBorrar {
+    position: absolute;
+    justify-content: flex-end;
+}
